@@ -1,0 +1,3 @@
+import math
+result_7=math.log(1000,10)
+print(result_7)
