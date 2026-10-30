@@ -1,0 +1,4 @@
+import math
+
+factorial_10 = math.factorial(10)
+print(f"Факториал числа 10 равен: {factorial_10}")

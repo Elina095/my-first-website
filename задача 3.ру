@@ -1,0 +1,8 @@
+import math
+
+number = 7.35
+rounded_down = math.floor(number)
+rounded_up = math.ceil(number)
+
+print(f"Округление вниз: {rounded_down}")
+print(f"Округление вверх: {rounded_up}")
